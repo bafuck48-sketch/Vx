@@ -424,8 +424,7 @@ end)
 -- ==========================================
 
 local success, err = pcall(function()
-    loadstring(game:HttpGet("https://cdn.luaprotect.dev/u/8660b0/UhkGaP84sC0FgRXm"))()
-end)
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/bafuck48-sketch/Vx/main/VIREX.lua"))()
 
 if not success then
     warn("VIREX โหลดไม่สำเร็จ:")
